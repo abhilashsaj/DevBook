@@ -3,6 +3,7 @@
  A full stack social network application using Node.js, Express, React, Redux and MongoDB. 
  
  
+ 
  ## Features
  
 - Building an extensive backend API with Node.js & Express
