@@ -6,7 +6,7 @@ import {
   GET_PROFILES,
   GET_REPOS,
   NO_REPOS
-} from '../actions/types';
+} from "../actions/types";
 
 const initialState = {
   profile: null,
